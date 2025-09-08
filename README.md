@@ -18,4 +18,4 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 ---
 
 ## 📂 Contents
-
+- **Day 1:** Introduction & @SpringBootApplication
