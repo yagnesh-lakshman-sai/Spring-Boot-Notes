@@ -18,4 +18,5 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 ---
 
 ## 📂 Contents
+### Week 1: Basics & Core Annotations(Day01_Introduction.md)
 - **Day 1:** Introduction & @SpringBootApplication
