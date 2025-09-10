@@ -18,6 +18,8 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 ---
 
 ## 📂 Contents
-### Week 1: Basics & Core Annotations(Day01_Introduction.md)
+### Week 1: Basics & Core Annotations
+
 - **Day 1:** Introduction & @SpringBootApplication
-- **Day 2:** Dependency Injection & Stereotype Annotations (@Component, @Service, @Repository, @Controller)
+- **Day 2:** Dependency Injection & Stereotype Annotations (@Component, @Service, @Repository, @Controller
+- **Day 3:** Bean Configuration & @Bean, @Configuration, @ComponentScan
