@@ -1,6 +1,6 @@
 # 📅 Day 3: Bean Configuration & Bean Scopes
 
-## 🎯 What You'll Learn Today
+## 🎯 Today Topics
 - Master `@Bean`, `@Configuration`, `@ComponentScan`
 - Understand Bean Scopes: Singleton vs Prototype
 - Learn advanced configuration patterns
