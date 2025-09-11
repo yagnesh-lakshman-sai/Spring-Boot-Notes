@@ -23,3 +23,4 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 - **Day 1:** Introduction & @SpringBootApplication
 - **Day 2:** Dependency Injection & Stereotype Annotations (@Component, @Service, @Repository, @Controller
 - **Day 3:** Bean Configuration & @Bean, @Configuration, @ComponentScan
+- **Day 4:** Autowiring & Qualifiers (@Autowired, @Qualifier)
