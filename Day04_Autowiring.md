@@ -337,25 +337,6 @@ public class PaymentService {
 
 ---
 
-## 🎯 Tomorrow's Preview: Day 5
-We'll explore **Application Properties** with:
-- `@Value` annotation for property injection
-- `@ConfigurationProperties` for type-safe configuration
-- `application.properties` vs `application.yml`
-- Environment-specific configurations
-
----
-
-## 📝 Quick Recap
-✅ **@Autowired**: Spring's dependency injection mechanism  
-✅ **Constructor Injection**: Recommended approach (immutable, testable)  
-✅ **@Qualifier**: Precise bean selection when multiple candidates exist  
-✅ **Circular Dependencies**: Best solved by architectural redesign  
-✅ **Optional Dependencies**: Use Optional<T> or required=false  
-
-**Commit Message:** `🔌 Day 4: Mastered autowiring patterns with real-world dependency injection examples`
-
-// Supporting services
 @Service
 public class IndexingService {
     
