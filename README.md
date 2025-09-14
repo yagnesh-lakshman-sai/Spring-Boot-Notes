@@ -26,3 +26,4 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 - **Day 4:** Autowiring & Qualifiers (@Autowired, @Qualifier)
 - **Day 5:** Application Properties & @Value, @ConfigurationProperties
 - **Day 6:** Profiles & @Profile
+- **Day 7:** Weekly Review + Example
