@@ -27,3 +27,7 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 - **Day 5:** Application Properties & @Value, @ConfigurationProperties
 - **Day 6:** Profiles & @Profile
 - **Day 7:** Weekly Review + Examples
+
+### Week 2: REST & Web Layer
+
+- **Day 8:** Spring MVC & @RestController, @RequestMapping
