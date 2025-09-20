@@ -33,3 +33,4 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 - **Day 8:** Spring MVC & @RestController, @RequestMapping
 - **Day 9:** HTTP Methods (@GetMapping, @PostMapping, @PutMapping, @DeleteMapping, @PatchMapping)
 - **Day 10:** Request & Response (@RequestParam, @PathVariable, @RequestBody, @ResponseBody)
+- **Day 11:** Exception Handling (@ExceptionHandler, @ControllerAdvice)
