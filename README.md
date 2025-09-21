@@ -34,3 +34,4 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 - **Day 9:** HTTP Methods (@GetMapping, @PostMapping, @PutMapping, @DeleteMapping, @PatchMapping)
 - **Day 10:** Request & Response (@RequestParam, @PathVariable, @RequestBody, @ResponseBody)
 - **Day 11:** Exception Handling (@ExceptionHandler, @ControllerAdvice)
+- **Day 12:** Validation (@Valid, @NotNull, @Size, @Email, etc.)
