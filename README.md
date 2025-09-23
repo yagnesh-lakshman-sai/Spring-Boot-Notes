@@ -35,3 +35,4 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 - **Day 10:** Request & Response (@RequestParam, @PathVariable, @RequestBody, @ResponseBody)
 - **Day 11:** Exception Handling (@ExceptionHandler, @ControllerAdvice)
 - **Day 12:** Validation (@Valid, @NotNull, @Size, @Email, etc.)
+- **Day 13:** CORS & Filters (@CrossOrigin, Filters, Interceptors)
