@@ -37,3 +37,7 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 - **Day 12:** Validation (@Valid, @NotNull, @Size, @Email, etc.)
 - **Day 13:** CORS & Filters (@CrossOrigin, Filters, Interceptors)
 - **Day 14:** Weekly Review + Example REST API
+
+### Week 3: Data & Persistence Layer
+
+- **Day 15:** Spring Data JPA & Entity Mapping (@Entity, @Table, @Id, @GeneratedValue)
