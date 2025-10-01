@@ -41,3 +41,4 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 ### Week 3: Data & Persistence Layer
 
 - **Day 15:** Spring Data JPA & Entity Mapping (@Entity, @Table, @Id, @GeneratedValue)
+- **Day 16:** Repository Layer (@Repository, JpaRepository, @Query)
