@@ -45,3 +45,4 @@ This repo contains structured notes, explanations, and examples of **Spring Boot
 - **Day 17:** Relationships (@OneToOne, @OneToMany, @ManyToOne, @ManyToMany)
 - **Day 18:** Transaction Management (@Transactional, Propagation)
 - **Day 19:** Caching (@EnableCaching, @Cacheable, @CacheEvict)
+- **Day 20:** Final Review + DB Integration Example
